@@ -2,8 +2,8 @@ import json
 import socket
 import time
 
-SERVER_ADDRESS = '10.20.16.80'
-SERVER_PORT = 2000
+SERVER_ADDRESS = 'server adress'
+SERVER_PORT = "port"
 
 
 def add_null_terminator_at_beginning(message_str):
